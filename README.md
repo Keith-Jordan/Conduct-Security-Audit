@@ -2,9 +2,9 @@
 > Modul 1-8 are inspired by Google CyberSecurity Certification on Coursera. 
 
 ## Professional Statements
-I am Keith Jordan. I am a Warehouse Assistant and Inventory Control Specialist with four years of experience in the transport industry. This has givin me the skill to be very detail oriented and having great communication in my day to day.  
+I am Keith Jordan. Currently a Warehouse Assistant and Inventory Control Specialist with four years of experience in the transport industry. This has given me the skill to be very detail oriented and have great communication in my day to day.  
 
-Recently, I completed the Google Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google Cybersecurity Professional Certificate has prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. As of August 2024, I am preparing to take the AWS Cloud Security, CompTIA A+, and CompTIA Security+ certifications. I am egar to contenue to learn every day. 
+Recently, I completed the Google Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google Cybersecurity Professional Certificate has prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. As of August 2024, I am preparing to take the AWS Cloud Security, CompTIA A+, and CompTIA Security+ certifications. I am eager  to continue to learn every day. 
 
 ## Portfolio
 
